@@ -6,4 +6,4 @@ print(name[-1])
 print(name[-1:-5:-1])
 print(name[-1::-1])
 x="this is my initial first code"
-print(x[-1::-1])
+# print(x[-1::-1])
